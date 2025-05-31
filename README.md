@@ -1,4 +1,5 @@
 <div align="center">
+
   
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 
@@ -43,7 +44,6 @@
 </div>
 
 ---
-
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
@@ -52,7 +52,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=bassem-magdy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bassem-magdy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- بدل خانة Most Used Language بالخانة دي لزوار الجيت هاب -->
+![Profile Views](https://komarev.com/ghpvc/?username=bassem-magdy&style=flat&color=blue)
 
 </div>
 
