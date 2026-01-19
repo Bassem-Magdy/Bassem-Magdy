@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Bassem Magdy 👨‍💻</h1>
 
 <p align="center">
-💻 Competitive Programmer | 💡 Problem Solver | 🧠 C++ Enthusiast  
+💻 Competitive Programmer | 💡 Problem Solver | 🧠 C++ Enthusiast | Frond End Developer  
 </p>
 
 ---
