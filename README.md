@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Bassem Magdy 👨‍💻</h1>
 
 <p align="center">
-💻 Competitive Programmer | 💡 Problem Solver | 🧠 C++ Enthusiast | Frond End Developer  
+💻 Competitive Programmer | 💡 Problem Solver | 🧠 C++ Enthusiast | 💻Frond End Developer  
 </p>
 
 ---
@@ -16,9 +16,9 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently solving competitive programming problems and pushing them to this repo.
-- 🧠 Languages: **C++**
+- 🧠 Languages: **C++** **HTML** **CSS** **JAVA SCRIPT**
 - 💻 Main IDE: **Visual Studio**
-- 🚀 Goal: Master problem-solving and grow through consistent practice.
+- 🚀 Goal: Front End Developer and Master problem-solving and grow through consistent practice.
 
 ---
 
