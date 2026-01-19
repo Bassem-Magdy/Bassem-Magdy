@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 - 🔭 I’m currently solving competitive programming problems and pushing them to this repo.
-- 🧠 Languages: **C++** **HTML** **CSS** **JAVA SCRIPT**
+- 🧠 Languages: **C++** **HTML** **CSS** **JAVASCRIPT**
 - 💻 Main IDE: **Visual Studio**
 - 🚀 Goal: Front End Developer and Master problem-solving and grow through consistent practice.
 
